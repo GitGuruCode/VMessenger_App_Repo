@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Chats" android:id="@+id/chatFragment" android:icon="@drawable/baat"/>
+    <item android:title="Status" android:id="@+id/statusFragment" android:icon="@drawable/status"/>
+</menu>

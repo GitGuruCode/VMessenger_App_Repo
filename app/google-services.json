@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934975883341",
+    "project_id": "vmessenger-cbd4b",
+    "storage_bucket": "vmessenger-cbd4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934975883341:android:fdff17e323e1403cebb404",
+        "android_client_info": {
+          "package_name": "com.example.vmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934975883341-4p9751f0m0778v7hkbvp2c4u42kn53qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq7ttt8TWwJatdxvoC9fxpirOyZ3cdgg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934975883341-4p9751f0m0778v7hkbvp2c4u42kn53qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

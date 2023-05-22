@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Rate Us" android:icon="@drawable/rateus" android:id="@+id/rateus"/>
+    <item android:title="Share App" android:icon="@drawable/share" android:id="@+id/shareApp"/>
+    <item android:title="Terms Condition" android:icon="@drawable/terms" android:id="@+id/tc"/>
+    <item android:title="Privacy Policy" android:icon="@drawable/privacy" android:id="@+id/ppolicy"/>
+    <item android:title="Profile Setting" android:id="@+id/psetting" android:icon="@drawable/setting"/>
+</menu>
